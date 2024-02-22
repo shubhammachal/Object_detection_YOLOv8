@@ -1,0 +1,5 @@
+train: /WAVE/users/unix/smachal/train
+val: /WAVE/users/unix/smachal/val
+
+nc: 3  # Number of classes
+names: ['car', 'truck', 'large_truck']  # Names of classes
